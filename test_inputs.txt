@@ -1,0 +1,21 @@
+#Test Case 1: Normal Inputs
+Pizza
+Blue
+
+# Test Case 2: Empty -> Re-enter
+<enter>
+<enter>
+Burger
+Red
+
+# Test Case 3: Long Inputs
+Chicken Biryani
+Light Sky Blue Neon Purple
+
+# Test Case 4: Numbers as input
+12345
+999
+
+# Test Case 5: Mixed Case Input
+ CHOCOLATE
+ yElLoW
